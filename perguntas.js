@@ -1,6 +1,6 @@
 criaCartao(
     'matematica',
-    'como se calcula a soma dos termos de uma P.A';
+    'como se calcula a soma dos termos de uma P.A'
 )
 
 criaCartao(
