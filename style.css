@@ -69,5 +69,5 @@
    }
 
    .cartao:hover .conteudo-cartao{
-    transforme: rotatey(180deg);
+    transform: rotatey(180deg);
    }
