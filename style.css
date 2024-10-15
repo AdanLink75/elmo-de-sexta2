@@ -35,7 +35,7 @@
    }
 
    .conteudo-cartao{
-    background-color: var(--cartao-frente);
+    background-color: var(--cartão-frente);
     text-align: center;
     height: 100%;
     color: var(--preto);
