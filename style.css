@@ -1,6 +1,6 @@
 :root{
     --fundo: #3e328f;
-    --cartão-frente: #a78d9e;
+    --cartao-frente: #a78d9e;
     --cartão-verso: #74819d;
     --destaque: #ece071;
     --preto: #f9ebc4;
@@ -35,7 +35,7 @@
    }
 
    .conteudo-cartao{
-    background-color: var(--cartão-frente);
+    background-color: var(--cartao-frente);
     text-align: center;
     height: 100%;
     color: var(--preto);
