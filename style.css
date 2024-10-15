@@ -45,7 +45,7 @@
 
    .conteudo-cartao h3{
     color: var(--destaque);
-    border: 1px solid var(var(--destaque));
+    border: 1px solid var(--destaque);
     text-align: left;
     position: absolute;
     padding: 0.5rem;
