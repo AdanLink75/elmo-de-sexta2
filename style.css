@@ -2,7 +2,7 @@
     --fundo: #3e328f;
     --cartão-frente: #a78d9e;
     --cartão-verso: #74819d;
-    --destaque: #c71755;
+    --destaque: #cfbb00;
     --preto: #f9ebc4;
     --branco: #000000;
    }
@@ -14,7 +14,7 @@
    footer{
    position: fixed;
    bottom: 0;
-   background-color: var(--preto);
+   background-color: var(--branco);
    color: var(--destaque);
    width: 100%;
    text-align: center;
