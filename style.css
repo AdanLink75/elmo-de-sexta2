@@ -57,3 +57,17 @@
     font-size: 1.4vw;
     padding: 2rem;
    }
+
+   .pergunta-cartao{
+    color: var(--preto);
+    font-weight: 500;
+   }
+
+   .resposta{
+    color:var(--destaque);
+    font-weight: 700;
+   }
+
+   .cartao:hover .conteudo-cartao{
+    transforme: rotatey(180deg);
+   }
