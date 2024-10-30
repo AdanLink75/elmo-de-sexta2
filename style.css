@@ -61,7 +61,7 @@
     padding: 2rem;
    }
 
-   .pergunta-cartao{
+   .conteudo-pergunta{
     color: var(--preto);
     font-weight: 500;
    }
@@ -74,11 +74,11 @@
     border: 2pc solid var(--destaque);
    }
 
-   .cartao:active .conteudo-cartao{
-    transform: rotatey(360deg);
+   .cartao.active .conteudo-cartao{
+    transform: rotatey(180deg);
    }
 
-   .pergunta-cartao, .resposta-cartao{
+   .conteudo-pergunta, .resposta-cartao{
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
