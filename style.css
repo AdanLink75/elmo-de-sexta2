@@ -75,7 +75,7 @@
     transform: rotatey(180deg);
    }
 
-   .pergunta-cartao, .resposta{
+   .pergunta-cartao, .cartão-resposta{
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
