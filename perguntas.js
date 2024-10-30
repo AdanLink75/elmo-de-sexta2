@@ -43,7 +43,7 @@ criaCartao(
 )
 criaCartao(
     'portugues',
-    'site todos os livros, lugares e mulheres que já foram vivenciados por Machado de Assis'
+    'cite todos os livros, lugares e mulheres que já foram vivenciados por Machado de Assis'
 )
 criaCartao(
     'portugues',
@@ -60,6 +60,10 @@ criaCartao(
 criaCartao(
     'arte',
     'como se foi montado a primeira bomba de hidrogenio?',
+)
+criaCartao(
+    'arte',
+    'para desenhar a monalisa, adan precisou usar 3 KG de crack, quantos ele precisaria para desenhar a turma de monica? e quantos o mauricio de souza utilizou? e quantos rabiscos tem a monica e por que? '
 )
 criaCartao(
     'arte',
