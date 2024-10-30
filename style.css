@@ -73,3 +73,9 @@
    .cartao:hover .conteudo-cartao{
     transform: rotatey(180deg);
    }
+
+   .pergunta-cartao, .resposta{
+    backface-visibility: hidden;
+   }
+
+   
