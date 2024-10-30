@@ -69,6 +69,9 @@
    .resposta{
     color:var(--destaque);
     font-weight: 700;
+    transform: rotatey(180deg);
+    background-color: var(--cartao-verso);
+    border: 2pc solid var(--destaque);
    }
 
    .cartao:hover .conteudo-cartao{
