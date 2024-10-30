@@ -52,6 +52,7 @@
     margin: 0.5rem;
     border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;
    }
 
    .conteudo-cartao p{
@@ -78,4 +79,3 @@
     backface-visibility: hidden;
    }
 
-   
