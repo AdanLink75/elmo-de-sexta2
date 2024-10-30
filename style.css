@@ -40,7 +40,7 @@
     height: 100%;
     color: var(--preto);
     transform: preserve-3d;
-    transition: transform 850ms ease-in-out;
+    transition: transform 300ms ease-in-out;
    }
 
    .conteudo-cartao h3{
