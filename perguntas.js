@@ -63,7 +63,6 @@ criaCartao(
 )
 criaCartao(
     'arte',
-    'Quantas visualizações o Enaldinho tem no video do caça leão? ',
-    'utiliza-se a formula: ((a1+an).q)/2'
+    'Quantas visualizações o Enaldinho tem no video do caça leão? '
 )
 
