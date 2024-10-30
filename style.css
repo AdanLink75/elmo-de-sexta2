@@ -74,7 +74,7 @@
     border: 2pc solid var(--destaque);
    }
 
-   .cartao:hover .conteudo-cartao{
+   .cartao:active .conteudo-cartao{
     transform: rotatey(360deg);
    }
 
