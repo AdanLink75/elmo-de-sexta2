@@ -37,12 +37,6 @@ header a{
     gap: 4rem;
    }
 
-   .cartao{
-    flex-grow: 1;
-    flex-basis: calc(33% - 6rem);
-    height: 20rem;
-   }
-
    .conteudo-cartao{
     background-color: var(--cartao-frente);
     padding: 40px;
@@ -58,5 +52,6 @@ header a{
    }
 
    .conteudo-cartao:hover{
-    transform: scale(1.84);
+    transform: scale(1.04);
    }
+

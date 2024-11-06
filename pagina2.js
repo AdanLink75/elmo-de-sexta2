@@ -3,7 +3,7 @@ function criaCartao(categoria, pergunta, resposta) {
     let cartao = document.createElement('article')
     cartao.className = 'cartao';
     cartao.innerHTML = `
-    <div class="conteudo-cartao">
+    <div class="conteudo-cartao" onclink ="mostraResposta(this)">
     <h3>${categoria}</h3>
     <div class="conteudo-pergunta">
         <p>${pergunta}</p>
@@ -15,4 +15,14 @@ function criaCartao(categoria, pergunta, resposta) {
     `
 
     container.appendChild(cartao)
+}
+
+function mostraResposta(card){
+    const resposta=card.querySelector('.conteudo-resposta');
+    if(resposta.style.display === 'none'){
+        resposta.style.display = 'block';
+    }
+    else{
+
+    }
 }
