@@ -1,11 +1,13 @@
 criaCartao(
     'matematica',
-    'como se calcula a soma dos termos de uma P.A'
+    'como se calcula a soma dos termos de uma P.A',
+    'sdcfvbnm,'
 )
 
 criaCartao(
     'matematica',
-    'quais são todos os numeros do pi existentes?'
+    'quais são todos os numeros do pi existentes?',
+    'sdfgbhnjm,.'
 )
 
 criaCartao(
