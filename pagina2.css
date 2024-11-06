@@ -48,10 +48,15 @@ header a{
     padding: 40px;
     box-shadow: 8px 8px 25px var(--branco);
     color: var(--preto);
+    cursor: pointer;
    }
 
    .conteudo-resposta{
     padding: 40px;
     background-color: var(--cartão-verso);
+    display: none;
    }
 
+   .conteudo-cartao:hover{
+    transform: scale(1.84);
+   }
