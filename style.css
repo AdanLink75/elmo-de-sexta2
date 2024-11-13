@@ -81,7 +81,7 @@ header a{
     color:var(--destaque);
     font-weight: 700;
     transform: rotatey(180deg);
-    background-color: var(--cartao-verso);
+    background-color: var(--cartão-verso);
     border: 2px solid var(--destaque);
    }
 
@@ -91,6 +91,7 @@ header a{
 
    .conteudo-pergunta, .conteudo-resposta{
     backface-visibility: hidden;
+
     height: 100%;
     width: 100%;
    }
