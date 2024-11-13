@@ -86,8 +86,21 @@ criaCartao(
     'Quantas visualizações o Enaldinho tem no video do caça leão? ',
     '5 bilhões'
 )
-
-
+criaCartao(
+    'Biologia',
+    'Por qual motivo o ovo chocado da galinha emergeum pintinho?',
+    'A gema, por corresponder ao ovócito, contribui com o material genético para a formação do embrião. Esse material gené- tico fica depositado no disco germinativo, local onde se desenvolve o embrião que irá gerar o pintinho, caso seja fecundado por um espermatozoide.'
+)
+criaCartao(
+    'Biologia',
+    'A forma como um guepardo corre, pode se passar mais de um carro. Qual o motvo disso?',
+    'A estrutura corporal do felino conta com uma espinha flexível, garras semi-retráteis, pernas e cauda longas que permitem passos de até sete metros de comprimento, ou seja, tem uma genetica preparada para ser um predador nato dentre os animais herbivoros. '
+)
+criaCartao(
+    'Geografia',
+    'Qual o pais com a maior taxa de obesidade do mundo?',
+    'Malta, com seus incriveis 28,7%'
+)
 
 
 
