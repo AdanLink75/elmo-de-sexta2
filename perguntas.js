@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'matematica',
     'quais são todos os numeros do pi existentes?',
-    'vai saber.'
+    'só deus sabe.'
 )
 
 criaCartao(
